@@ -1,0 +1,97 @@
+StudentID,CourseID,CourseName,Credits,Grade,Semester
+1,CS101,Introduction to Computer Science,3,A,Fall 2020
+1,MA101,Calculus I,4,B,Fall 2020
+1,EN101,English Composition,3,A,Fall 2020
+1,PH101,Introduction to Philosophy,3,C,Fall 2020
+1,CS102,Data Structures,3,A,Spring 2021
+1,MA102,Calculus II,4,B,Spring 2021
+1,EN102,English Literature,3,A,Spring 2021
+1,SO101,Introduction to Sociology,3,B,Spring 2021
+2,CS101,Introduction to Computer Science,3,B,Fall 2020
+2,MA101,Calculus I,4,A,Fall 2020
+2,EN101,English Composition,3,B,Fall 2020
+2,PS101,Introduction to Psychology,3,A,Fall 2020
+2,CS102,Data Structures,3,B,Spring 2021
+2,MA102,Calculus II,4,A,Spring 2021
+2,EN102,English Literature,3,B,Spring 2021
+2,EC101,Introduction to Economics,3,A,Spring 2021
+3,CS101,Introduction to Computer Science,3,C,Fall 2020
+3,MA101,Calculus I,4,B,Fall 2020
+3,EN101,English Composition,3,C,Fall 2020
+3,HI101,World History,3,B,Fall 2020
+3,CS102,Data Structures,3,C,Spring 2021
+3,MA102,Calculus II,4,B,Spring 2021
+3,EN102,English Literature,3,C,Spring 2021
+3,AR101,Art History,3,B,Spring 2021
+4,CS101,Introduction to Computer Science,3,A,Fall 2020
+4,MA101,Calculus I,4,A,Fall 2020
+4,EN101,English Composition,3,A,Fall 2020
+4,MU101,Music Theory,3,A,Fall 2020
+4,CS102,Data Structures,3,A,Spring 2021
+4,MA102,Calculus II,4,A,Spring 2021
+4,EN102,English Literature,3,A,Spring 2021
+4,DA101,Introduction to Dance,3,A,Spring 2021
+5,CS101,Introduction to Computer Science,3,B,Fall 2020
+5,MA101,Calculus I,4,C,Fall 2020
+5,EN101,English Composition,3,B,Fall 2020
+5,TH101,Introduction to Theater,3,C,Fall 2020
+5,CS102,Data Structures,3,B,Spring 2021
+5,MA102,Calculus II,4,C,Spring 2021
+5,EN102,English Literature,3,B,Spring 2021
+5,FI101,Introduction to Film,3,C,Spring 2021
+6,CS201,Algorithms,3,A,Fall 2021
+6,MA201,Linear Algebra,4,B,Fall 2021
+6,EN201,Creative Writing,3,A,Fall 2021
+6,PH201,Ethics,3,C,Fall 2021
+6,CS202,Operating Systems,3,A,Spring 2022
+6,MA202,Differential Equations,4,B,Spring 2022
+6,EN202,American Literature,3,A,Spring 2022
+6,SO201,Social Problems,3,B,Spring 2022
+7,CS201,Algorithms,3,B,Fall 2021
+7,MA201,Linear Algebra,4,A,Fall 2021
+7,EN201,Creative Writing,3,B,Fall 2021
+7,PS201,Abnormal Psychology,3,A,Fall 2021
+7,CS202,Operating Systems,3,B,Spring 2022
+7,MA202,Differential Equations,4,A,Spring 2022
+7,EN202,American Literature,3,B,Spring 2022
+7,EC201,Microeconomics,3,A,Spring 2022
+8,CS201,Algorithms,3,C,Fall 2021
+8,MA201,Linear Algebra,4,B,Fall 2021
+8,EN201,Creative Writing,3,C,Fall 2021
+8,HI201,US History,3,B,Fall 2021
+8,CS202,Operating Systems,3,C,Spring 2022
+8,MA202,Differential Equations,4,B,Spring 2022
+8,EN202,American Literature,3,C,Spring 2022
+8,AR201,Modern Art,3,B,Spring 2022
+9,CS201,Algorithms,3,A,Fall 2021
+9,MA201,Linear Algebra,4,A,Fall 2021
+9,EN201,Creative Writing,3,A,Fall 2021
+9,MU201,Music History,3,A,Fall 2021
+9,CS202,Operating Systems,3,A,Spring 2022
+9,MA202,Differential Equations,4,A,Spring 2022
+9,EN202,American Literature,3,A,Spring 2022
+9,DA201,Dance History,3,A,Spring 2022
+10,CS201,Algorithms,3,B,Fall 2021
+10,MA201,Linear Algebra,4,C,Fall 2021
+10,EN201,Creative Writing,3,B,Fall 2021
+10,TH201,Acting,3,C,Fall 2021
+10,CS202,Operating Systems,3,B,Spring 2022
+10,MA202,Differential Equations,4,C,Spring 2022
+10,EN202,American Literature,3,B,Spring 2022
+10,FI201,Film Theory,3,C,Spring 2022
+11,CS301,Database Systems,3,A,Fall 2022
+11,MA301,Probability and Statistics,4,B,Fall 2022
+11,EN301,Shakespeare,3,A,Fall 2022
+11,PH301,Logic,3,C,Fall 2022
+11,CS302,Computer Networks,3,A,Spring 2023
+11,MA302,Abstract Algebra,4,B,Spring 2023
+11,EN302,The Novel,3,A,Spring 2023
+11,SO301,Sociological Theory,3,B,Spring 2023
+12,CS301,Database Systems,3,B,Fall 2022
+12,MA301,Probability and Statistics,4,A,Fall 2022
+12,EN301,Shakespeare,3,B,Fall 2022
+12,PS301,Social Psychology,3,A,Fall 2022
+12,CS302,Computer Networks,3,B,Spring 2023
+12,MA302,Abstract Algebra,4,A,Spring 2023
+12,EN302,The Novel,3,B,Spring 2023
+12,EC301,Macroeconomics,3,A,Spring 2023
